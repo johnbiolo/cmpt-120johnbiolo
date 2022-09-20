@@ -87,5 +87,3 @@ def fibonacci(n):
     # your logic
 
     return result
-
-print(fibonacci(3))
